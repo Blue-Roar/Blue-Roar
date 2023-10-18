@@ -1,4 +1,10 @@
-### Hi there 👋
+![image](img/yuuki_noa.jpg)
+```
+const string waifu = "Noa Yuuki";
+```
+![image](img/img_stigma_04.png)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Roar&layout=compact&show_icons=true&theme=dracula)
 
 <!--
 **Blue-Roar/Blue-Roar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
