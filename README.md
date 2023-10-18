@@ -1,4 +1,8 @@
-### Hi there 👋
+![image](img/lun_f_6_0_07.png)
+```
+const string waifu = "Luna Sakurakouji";
+```
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Roar&layout=compact&show_icons=true&theme=dracula)
 
 <!--
 **Blue-Roar/Blue-Roar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
